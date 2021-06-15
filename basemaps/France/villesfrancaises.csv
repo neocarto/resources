@@ -1,0 +1,278 @@
+Commune,Département,Région,Statut
+Marseille,Bouches-du-Rhône,Provence-Alpes-Côte d'Azur,Préfecture
+Lyon,Métropole de LyonNote 1,Auvergne-Rhône-Alpes,Préfecture
+Toulouse,Haute-Garonne,Occitanie,Préfecture
+Nice,Alpes-Maritimes,Provence-Alpes-Côte d'Azur,Préfecture
+Nantes,Loire-Atlantique,Pays de la Loire,Préfecture
+Montpellier,Hérault,Occitanie,Préfecture
+Strasbourg,Bas-Rhin,Grand Est,Préfecture
+Bordeaux,Gironde,Nouvelle-Aquitaine,Préfecture
+Lille,Nord,Hauts-de-France,Préfecture
+Rennes,Ille-et-Vilaine,Bretagne,Préfecture
+Reims,Marne,Grand Est,Sous-préfecture
+Toulon,Var,Provence-Alpes-Côte d'Azur,Préfecture
+Saint-Étienne,Loire,Auvergne-Rhône-Alpes,Préfecture
+Le Havre,Seine-Maritime,Normandie,Sous-préfecture
+Grenoble,Isère,Auvergne-Rhône-Alpes,Préfecture
+Dijon,Côte-d'Or,Bourgogne-Franche-Comté,Préfecture
+Angers,Maine-et-Loire,Pays de la Loire,Préfecture
+Villeurbanne,Métropole de LyonNote 1,Auvergne-Rhône-Alpes,--
+Saint-Denis,La Réunion,La Réunion,Préfecture
+Nîmes,Gard,Occitanie,Préfecture
+Clermont-Ferrand,Puy-de-Dôme,Auvergne-Rhône-Alpes,Préfecture
+Le Mans,Sarthe,Pays de la Loire,Préfecture
+Aix-en-Provence,Bouches-du-Rhône,Provence-Alpes-Côte d'Azur,Sous-préfecture
+Brest,Finistère,Bretagne,Sous-préfecture
+Tours,Indre-et-Loire,Centre-Val de Loire,Préfecture
+Amiens,Somme,Hauts-de-France,Préfecture
+Limoges,Haute-Vienne,Nouvelle-Aquitaine,Préfecture
+Annecy,Haute-Savoie,Auvergne-Rhône-Alpes,Préfecture
+Boulogne-Billancourt,Hauts-de-Seine,Île-de-France,Sous-préfecture
+Perpignan,Pyrénées-Orientales,Occitanie,Préfecture
+Besançon,Doubs,Bourgogne-Franche-Comté,Préfecture
+Metz,Moselle,Grand Est,Préfecture
+Orléans,Loiret,Centre-Val de Loire,Préfecture
+Saint-Denis,Seine-Saint-Denis,Île-de-France,Sous-préfecture
+Rouen,Seine-Maritime,Normandie,Préfecture
+Argenteuil,Val-d'Oise,Île-de-France,Sous-préfecture
+Montreuil,Seine-Saint-Denis,Île-de-France,--
+Mulhouse,Haut-Rhin,Grand Est,Sous-préfecture
+Caen,Calvados,Normandie,Préfecture
+Nancy,Meurthe-et-Moselle,Grand Est,Préfecture
+Saint-Paul,La Réunion,La Réunion,Sous-préfecture
+Roubaix,Nord,Hauts-de-France,--
+Tourcoing,Nord,Hauts-de-France,--
+Nanterre,Hauts-de-Seine,Île-de-France,Préfecture
+Vitry-sur-Seine,Val-de-Marne,Île-de-France,--
+Créteil,Val-de-Marne,Île-de-France,Préfecture
+Avignon,Vaucluse,Provence-Alpes-Côte d'Azur,Préfecture
+Poitiers,Vienne,Nouvelle-Aquitaine,Préfecture
+Aubervilliers,Seine-Saint-Denis,Île-de-France,--
+DunkerqueNote 2,Nord,Hauts-de-France,Sous-préfecture
+Aulnay-sous-Bois,Seine-Saint-Denis,Île-de-France,--
+Colombes,Hauts-de-Seine,Île-de-France,--
+Asnières-sur-Seine,Hauts-de-Seine,Île-de-France,--
+Versailles,Yvelines,Île-de-France,Préfecture
+Saint-Pierre,La Réunion,La Réunion,Sous-préfecture
+Courbevoie,Hauts-de-Seine,Île-de-France,--
+Le Tampon,La Réunion,La Réunion,--
+Cherbourg-en-CotentinNote 3,Manche,Normandie,Sous-préfecture
+Fort-de-France,Martinique,Martinique,Préfecture
+Rueil-Malmaison,Hauts-de-Seine,Île-de-France,--
+Béziers,Hérault,Occitanie,Sous-préfecture
+Champigny-sur-Marne,Val-de-Marne,Île-de-France,--
+Pau,Pyrénées-Atlantiques,Nouvelle-Aquitaine,Préfecture
+La Rochelle,Charente-Maritime,Nouvelle-Aquitaine,Préfecture
+Saint-Maur-des-Fossés,Val-de-Marne,Île-de-France,--
+Cannes,Alpes-Maritimes,Provence-Alpes-Côte d'Azur,--
+Calais,Pas-de-Calais,Hauts-de-France,Sous-préfecture
+Antibes,Alpes-Maritimes,Provence-Alpes-Côte d'Azur,--
+Drancy,Seine-Saint-Denis,Île-de-France,--
+Mamoudzou,Mayotte,Mayotte,Préfecture
+Ajaccio,Corse-du-Sud,Corse,Préfecture
+Mérignac,Gironde,Nouvelle-Aquitaine,--
+Saint-Nazaire,Loire-Atlantique,Pays de la Loire,Sous-préfecture
+Colmar,Haut-Rhin,Grand Est,Préfecture
+Issy-les-Moulineaux,Hauts-de-Seine,Île-de-France,--
+Noisy-le-Grand,Seine-Saint-Denis,Île-de-France,--
+Évry-CourcouronnesNote 4,Essonne,Île-de-France,Préfecture
+Vénissieux,Métropole de LyonNote 1,Auvergne-Rhône-Alpes,--
+Cergy,Val-d'Oise,Île-de-France,Préfecture
+Levallois-Perret,Hauts-de-Seine,Île-de-France,--
+Valence,Drôme,Auvergne-Rhône-Alpes,Préfecture
+Bourges,Cher,Centre-Val de Loire,Préfecture
+Pessac,Gironde,Nouvelle-Aquitaine,--
+Cayenne,Guyane,Guyane,Préfecture
+Ivry-sur-Seine,Val-de-Marne,Île-de-France,--
+Quimper,Finistère,Bretagne,Préfecture
+La Seyne-sur-Mer,Var,Provence-Alpes-Côte d'Azur,--
+Antony,Hauts-de-Seine,Île-de-France,Sous-préfecture
+Villeneuve-d'Ascq,Nord,Hauts-de-France,--
+Clichy,Hauts-de-Seine,Île-de-France,--
+Troyes,Aube,Grand Est,Préfecture
+Montauban,Tarn-et-Garonne,Occitanie,Préfecture
+Neuilly-sur-Seine,Hauts-de-Seine,Île-de-France,--
+Pantin,Seine-Saint-Denis,Île-de-France,--
+Niort,Deux-Sèvres,Nouvelle-Aquitaine,Préfecture
+Chambéry,Savoie,Auvergne-Rhône-Alpes,Préfecture
+Sarcelles,Val-d'Oise,Île-de-France,Sous-préfecture
+Le Blanc-Mesnil,Seine-Saint-Denis,Île-de-France,--
+Lorient,Morbihan,Bretagne,Sous-préfecture
+Saint-André,La Réunion,La Réunion,--
+Beauvais,Oise,Hauts-de-France,Préfecture
+Maisons-Alfort,Val-de-Marne,Île-de-France,--
+Meaux,Seine-et-Marne,Île-de-France,Sous-préfecture
+Narbonne,Aude,Occitanie,Sous-préfecture
+Chelles,Seine-et-Marne,Île-de-France,--
+Hyères,Var,Provence-Alpes-Côte d'Azur,--
+Villejuif,Val-de-Marne,Île-de-France,Sous-préfecture
+Épinay-sur-Seine,Seine-Saint-Denis,Île-de-France,--
+La Roche-sur-Yon,Vendée,Pays de la Loire,Préfecture
+Bobigny,Seine-Saint-Denis,Île-de-France,Préfecture
+Cholet,Maine-et-Loire,Pays de la Loire,Sous-préfecture
+Bondy,Seine-Saint-Denis,Île-de-France,--
+Saint-Quentin,Aisne,Hauts-de-France,Sous-préfecture
+Fréjus,Var,Provence-Alpes-Côte d'Azur,--
+Saint-Louis,La Réunion,La Réunion,--
+Vannes,Morbihan,Bretagne,Préfecture
+Les Abymes,Guadeloupe,Guadeloupe,--
+Clamart,Hauts-de-Seine,Île-de-France,--
+Sartrouville,Yvelines,Île-de-France,--
+Fontenay-sous-Bois,Val-de-Marne,Île-de-France,--
+Cagnes-sur-Mer,Alpes-Maritimes,Provence-Alpes-Côte d'Azur,--
+Bayonne,Pyrénées-Atlantiques,Nouvelle-Aquitaine,Sous-préfecture
+Sevran,Seine-Saint-Denis,Île-de-France,--
+Arles,Bouches-du-Rhône,Provence-Alpes-Côte d'Azur,Sous-préfecture
+Corbeil-Essonnes,Essonne,Île-de-France,--
+Vaulx-en-Velin,Métropole de LyonNote 1,Auvergne-Rhône-Alpes,--
+Saint-Ouen-sur-Seine,Seine-Saint-Denis,Île-de-France,--
+Massy,Essonne,Île-de-France,--
+Vincennes,Val-de-Marne,Île-de-France,--
+Laval,Mayenne,Pays de la Loire,Préfecture
+Albi,Tarn,Occitanie,Préfecture
+Grasse,Alpes-Maritimes,Provence-Alpes-Côte d'Azur,Sous-préfecture
+Suresnes,Hauts-de-Seine,Île-de-France,--
+Montrouge,Hauts-de-Seine,Île-de-France,--
+Martigues,Bouches-du-Rhône,Provence-Alpes-Côte d'Azur,--
+Bastia,Haute-Corse,Corse,Préfecture
+Gennevilliers,Hauts-de-Seine,Île-de-France,--
+Aubagne,Bouches-du-Rhône,Provence-Alpes-Côte d'Azur,--
+Belfort,Territoire de Belfort,Bourgogne-Franche-Comté,Préfecture
+Évreux,Eure,Normandie,Préfecture
+Brive-la-Gaillarde,Corrèze,Nouvelle-Aquitaine,Sous-préfecture
+Carcassonne,Aude,Occitanie,Préfecture
+Saint-Priest,Métropole de LyonNote 1,Auvergne-Rhône-Alpes,--
+Saint-Malo,Ille-et-Vilaine,Bretagne,Sous-préfecture
+Charleville-Mézières,Ardennes,Grand Est,Préfecture
+Saint-Herblain,Loire-Atlantique,Pays de la Loire,--
+Choisy-le-Roi,Val-de-Marne,Île-de-France,--
+Rosny-sous-Bois,Seine-Saint-Denis,Île-de-France,--
+Blois,Loir-et-Cher,Centre-Val de Loire,Préfecture
+Meudon,Hauts-de-Seine,Île-de-France,--
+Saint-Laurent-du-Maroni,Guyane,Guyane,Sous-préfecture
+Salon-de-Provence,Bouches-du-Rhône,Provence-Alpes-Côte d'Azur,--
+Livry-Gargan,Seine-Saint-Denis,Île-de-France,--
+Puteaux,Hauts-de-Seine,Île-de-France,--
+Chalon-sur-Saône,Saône-et-Loire,Bourgogne-Franche-Comté,Sous-préfecture
+Saint-Germain-en-LayeNote 5,Yvelines,Île-de-France,Sous-préfecture
+Les Sables-d'OlonneNote 6,Vendée,Pays de la Loire,Sous-préfecture
+Alfortville,Val-de-Marne,Île-de-France,--
+Châlons-en-Champagne,Marne,Grand Est,Préfecture
+Mantes-la-Jolie,Yvelines,Île-de-France,Sous-préfecture
+Noisy-le-Sec,Seine-Saint-Denis,Île-de-France,--
+Saint-Brieuc,Côtes-d'Armor,Bretagne,Préfecture
+La Courneuve,Seine-Saint-Denis,Île-de-France,--
+Sète,Hérault,Occitanie,--
+Châteauroux,Indre,Centre-Val de Loire,Préfecture
+Istres,Bouches-du-Rhône,Provence-Alpes-Côte d'Azur,Sous-préfecture
+Valenciennes,Nord,Hauts-de-France,Sous-préfecture
+Garges-lès-Gonesse,Val-d'Oise,Île-de-France,--
+Caluire-et-Cuire,Métropole de LyonNote 1,Auvergne-Rhône-Alpes,--
+Talence,Gironde,Nouvelle-Aquitaine,--
+Tarbes,Hautes-Pyrénées,Occitanie,Préfecture
+Rezé,Loire-Atlantique,Pays de la Loire,--
+Bron,Métropole de LyonNote 1,Auvergne-Rhône-Alpes,--
+Castres,Tarn,Occitanie,Sous-préfecture
+Angoulême,Charente,Nouvelle-Aquitaine,Préfecture
+Arras,Pas-de-Calais,Hauts-de-France,Préfecture
+Le Cannet,Alpes-Maritimes,Provence-Alpes-Côte d'Azur,--
+Bourg-en-Bresse,Ain,Auvergne-Rhône-Alpes,Préfecture
+Wattrelos,Nord,Hauts-de-France,--
+Bagneux,Hauts-de-Seine,Île-de-France,--
+Alès,Gard,Occitanie,Sous-préfecture
+Boulogne-sur-Mer,Pas-de-Calais,Hauts-de-France,Sous-préfecture
+Le Lamentin,Martinique,Martinique,--
+Gap,Hautes-Alpes,Provence-Alpes-Côte d'Azur,Préfecture
+Compiègne,Oise,Hauts-de-France,Sous-préfecture
+Thionville,Moselle,Grand Est,Sous-préfecture
+Melun,Seine-et-Marne,Île-de-France,Préfecture
+Douai,Nord,Hauts-de-France,Sous-préfecture
+Gagny,Seine-Saint-Denis,Île-de-France,--
+Anglet,Pyrénées-Atlantiques,Nouvelle-Aquitaine,--
+Montélimar,Drôme,Auvergne-Rhône-Alpes,--
+Draguignan,Var,Provence-Alpes-Côte d'Azur,Sous-préfecture
+Colomiers,Haute-Garonne,Occitanie,--
+Stains,Seine-Saint-Denis,Île-de-France,--
+Marcq-en-Barœul,Nord,Hauts-de-France,--
+Chartres,Eure-et-Loir,Centre-Val de Loire,Préfecture
+Saint-Martin-d'Hères,Isère,Auvergne-Rhône-Alpes,--
+Poissy,Yvelines,Île-de-France,--
+Joué-lès-Tours,Indre-et-Loire,Centre-Val de Loire,--
+Pontault-Combault,Seine-et-Marne,Île-de-France,--
+Saint-Joseph,La Réunion,La Réunion,--
+Villepinte,Seine-Saint-Denis,Île-de-France,--
+Saint-Benoît,La Réunion,La Réunion,Sous-préfecture
+Châtillon,Hauts-de-Seine,Île-de-France,--
+Franconville,Val-d'Oise,Île-de-France,--
+Échirolles,Isère,Auvergne-Rhône-Alpes,--
+Savigny-sur-Orge,Essonne,Île-de-France,--
+Villefranche-sur-Saône,Rhône,Auvergne-Rhône-Alpes,Sous-préfecture
+Annemasse,Haute-Savoie,Auvergne-Rhône-Alpes,--
+Tremblay-en-France,Seine-Saint-Denis,Île-de-France,--
+Sainte-Geneviève-des-Bois,Essonne,Île-de-France,--
+Creil,Oise,Hauts-de-France,--
+Neuilly-sur-Marne,Seine-Saint-Denis,Île-de-France,--
+Conflans-Sainte-Honorine,Yvelines,Île-de-France,--
+Saint-Raphaël,Var,Provence-Alpes-Côte d'Azur,--
+Palaiseau,Essonne,Île-de-France,Sous-préfecture
+Bagnolet,Seine-Saint-Denis,Île-de-France,--
+La Ciotat,Bouches-du-Rhône,Provence-Alpes-Côte d'Azur,--
+Villenave-d'Ornon,Gironde,Nouvelle-Aquitaine,--
+Thonon-les-Bains,Haute-Savoie,Auvergne-Rhône-Alpes,Sous-préfecture
+Athis-Mons,Essonne,Île-de-France,--
+Saint-Chamond,Loire,Auvergne-Rhône-Alpes,--
+Montluçon,Allier,Auvergne-Rhône-Alpes,Sous-préfecture
+Haguenau,Bas-Rhin,Grand Est,Sous-préfecture
+Auxerre,Yonne,Bourgogne-Franche-Comté,Préfecture
+Villeneuve-Saint-Georges,Val-de-Marne,Île-de-France,--
+Saint-Leu,La Réunion,La Réunion,--
+Châtenay-Malabry,Hauts-de-Seine,Île-de-France,--
+Meyzieu,Métropole de LyonNote 1,Auvergne-Rhône-Alpes,--
+Roanne,Loire,Auvergne-Rhône-Alpes,Sous-préfecture
+Mâcon,Saône-et-Loire,Bourgogne-Franche-Comté,Préfecture
+Le Perreux-sur-Marne,Val-de-Marne,Île-de-France,--
+Six-Fours-les-Plages,Var,Provence-Alpes-Côte d'Azur,--
+Le Port,La Réunion,La Réunion,--
+Nevers,Nièvre,Bourgogne-Franche-Comté,Préfecture
+Sainte-Marie,La Réunion,La Réunion,--
+Romans-sur-Isère,Drôme,Auvergne-Rhône-Alpes,--
+Vitrolles,Bouches-du-Rhône,Provence-Alpes-Côte d'Azur,--
+Schiltigheim,Bas-Rhin,Grand Est,--
+Agen,Lot-et-Garonne,Nouvelle-Aquitaine,Préfecture
+Les Mureaux,Yvelines,Île-de-France,--
+Matoury,Guyane,Guyane,--
+Nogent-sur-Marne,Val-de-Marne,Île-de-France,Sous-préfecture
+Marignane,Bouches-du-Rhône,Provence-Alpes-Côte d'Azur,--
+La Possession,La Réunion,La Réunion,--
+Montigny-le-Bretonneux,Yvelines,Île-de-France,--
+Cambrai,Nord,Hauts-de-France,Sous-préfecture
+Houilles,Yvelines,Île-de-France,--
+Épinal,Vosges,Grand Est,Préfecture
+Koungou,Mayotte,Mayotte,--
+Trappes,Yvelines,Île-de-France,--
+Châtellerault,Vienne,Nouvelle-Aquitaine,Sous-préfecture
+Lens,Pas-de-Calais,Hauts-de-France,Sous-préfecture
+Saint-Médard-en-Jalles,Gironde,Nouvelle-Aquitaine,--
+Vigneux-sur-Seine,Essonne,Île-de-France,--
+Pontoise,Val-d'Oise,Île-de-France,Préfecture
+L'Haÿ-les-Roses,Val-de-Marne,Île-de-France,Sous-préfecture
+Le Chesnay-RocquencourtNote 7,Yvelines,Île-de-France,--
+Baie-Mahault,Guadeloupe,Guadeloupe,--
+Plaisir,Yvelines,Île-de-France,--
+Cachan,Val-de-Marne,Île-de-France,--
+Pierrefitte-sur-Seine,Seine-Saint-Denis,Île-de-France,--
+Malakoff,Hauts-de-Seine,Île-de-France,--
+Viry-Châtillon,Essonne,Île-de-France,--
+Dreux,Eure-et-Loir,Centre-Val de Loire,Sous-préfecture
+Goussainville,Val-d'Oise,Île-de-France,--
+Bezons,Val-d'Oise,Île-de-France,--
+Liévin,Pas-de-Calais,Hauts-de-France,--
+Rillieux-la-Pape,Métropole de LyonNote 1,Auvergne-Rhône-Alpes,--
+Chatou,Yvelines,Île-de-France,--
+Menton,Alpes-Maritimes,Provence-Alpes-Côte d'Azur,--
+Herblay-sur-Seine,Val-d'Oise,Île-de-France,--
+Périgueux,Dordogne,Nouvelle-Aquitaine,Préfecture
+Charenton-le-Pont,Val-de-Marne,Île-de-France,--
+Saint-Cloud,Hauts-de-Seine,Île-de-France,--
+Vandœuvre-lès-Nancy,Meurthe-et-Moselle,Grand Est,--
+Villemomble,Seine-Saint-Denis,Île-de-France,--
