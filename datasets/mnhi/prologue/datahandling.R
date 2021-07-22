@@ -61,4 +61,4 @@ mydata = setcoords("Ame",-12.603453714772108, -56.47953026441623)
 mydata = setcoords("Afr",3.1839195197532746, 24.17584029494345)
 mydata = setcoords("Ame_Oce",from = "AU")
 
-write.csv(mydata,"nat_etr_france.csv")
+write.csv(mydata,"nat_etr_france.csv", row.names = FALSE)
