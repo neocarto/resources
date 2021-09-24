@@ -1,0 +1,500 @@
+Rang,Nom,Fortune,Société,Secteur
+1,Bernard Arnault et sa famille,157500,LVMH,luxe
+2,Famille Hermès,81500,HERMES INTERNATIONAL,luxe
+3,Françoise Bettencourt-Meyers et sa famille,71400,L’OREAL,cosmétiques
+4,Alain Wertheimer et Gérard Wertheimer ainsi que leur famille,67000,CHANEL,luxe
+5,François Pinault et sa famille,41500,KERING,luxe
+6,"Laurent, Marie-Hélène & Thierry Dassault",26600,GROUPE INDUSTRIEL MARCEL DASSAULT,holding
+7,Gérard Mulliez et sa famille,24000,GROUPE MULLIEZ,distribution
+8,Pierre Omidyar,20000,EBAY/PAYPAL,numérique
+9,Pierre Castel et sa famille,14000,CASTEL FRERES,vins
+10,Patrick Drahi,13000,ALTICE,télécoms
+11,Emmanuel Besnier et sa famille,12000,LACTALIS,agroalimentaire
+12,Evan Spiegel,10100,SNAPCHAT,numérique
+13,Xavier Niel et sa famille,8800,ILIAD,télécoms
+14,Vincent Bolloré,8200,BOLLORE,holding
+15,Alexandre Ricard et sa famille,7400,PERNOD RICARD,agroalimentaire
+16,Alain Mérieux et sa famille,6600,BIOMERIEUX,chimie
+17,Famille Courtin-Clarins,6500,CLARINS,cosmétiques
+18,Robert Peugeot et sa famille,6200,STELLANTIS,automobile
+19,Marie-Christine Coisne-Roquette et Familles Coisne et Lambert,6000,SONEPAR,distribution
+19,François Perrodo et sa famille,6000,PERENCO,energie
+19,Rodolphe Saadé et sa famille,6000,CMA-CGM,transports
+22,"Gilles Hennessy et familles Hennessy, Moët et Chandon",5900,LVMH,luxe
+22,Nicolas Puech,5900,HERMES INTERNATIONAL,luxe
+24,Gilles Martin et Yves-Loïc Martin,5400,EUROFINS SCIENTIFIC,santé
+25,Stéphane Bancel,5000,MODERNA,pharmacie
+25,Famille Decaux,5000,JCDECAUX COMMUNICATION,publicité
+27,Ariane de Rothschild et sa famille,4800,GROUPE E. DE ROTHSCHILD,services financiers
+28,Marc Hériard-Dubreuil et sa famille,4700,REMY COINTREAU,vins
+29,Marc Ladreit de Lacharrière,4400,FIMALAC,holding
+30,Olivier Pomel et Alexis Lê-Quôc,4100,DATADOG,numérique
+31,Paul-Georges Despature et sa famille,4000,SOMFY,industrie
+32,Mohed Altrad,3800,ALTRAD,btp
+32,Octave Klaba et sa famille,3800,OVH CLOUD,numérique
+32,Margarita Louis-Dreyfus et sa famille,3800,LOUIS-DREYFUS COMPANY,holding
+35,Anne Beaufour et Henri Beaufour ainsi que leur famille,3700,GROUPE IPSEN,pharmacie
+35,Famille Lesaffre,3700,LESAFFRE,agroalimentaire
+37,Pierre Bellon et ses enfants,3600,SODEXO,services
+38,Famille Lescure,3500,GROUPE SEB,consommation
+39,Benoît Dageville et Thierry Cruanes,3400,SNOWFLAKE,numérique
+40,Eric Guerlain et sa famille,3300,LVMH,luxe
+41,Martin Bouygues et Olivier Bouygues ainsi que leur famille,3200,BOUYGUES,btp
+42,Ginette Moulin et sa famille,3100,GALERIES LAFAYETTE,distribution
+43,Pierre-Etienne Bindschedler,3000,SOPREMA,btp
+43,Charles Edelstenne,3000,DASSAULT SYSTEMES,numérique
+43,Edouard Roquette et sa famille,3000,GROUPE ROQUETTE,agroalimentaire
+46,"Antoine Fiévet et familles Fievet, Sauvin , Dufort",2800,FROMAGERIES BEL,agroalimentaire
+47,Philippe d’ Ornano et Christine d’ Ornano ainsi que leur famille,2600,SISLEY,cosmétiques
+47,Jacques Veyrat,2600,IMPALA,holding
+49,Bris Rocher et sa famille,2500,GROUPE ROCHER,cosmétiques
+50,Jean Mane et sa famille,2400,MANE,chimie
+51,Daniel Roullier et sa famille,2300,GROUPE ROULLIER,chimie
+52,Laurent Burelle et sa famille,2200,PLASTIC OMNIUM,automobile
+53,François Feuillet et sa famille,2000,TRIGANO,automobile
+53,Louis Le Duff,2000,GROUPE LE DUFF,agroalimentaire
+53,Famille Pich,2000,SNF FLOERGER,chimie
+53,Martine Primat et sa famille,2000,PRIMLAND,industrie
+57,Famille de Wendel,2000,WENDEL,holding
+58,Jean Cassegrain et sa famille,1900,LONGCHAMP,luxe
+58,Norbert Dentressangle et sa famille,1900,DENTRESSANGLE,holding
+58,Sadri Fegaier,1900,SFAM,assurances
+58,Bernard Fraisse et sa famille,1900,FAREVA,pharmacie
+58,Michel Reybier,1900,DOMAINES REYBIER,holding
+63,Christian Latouche et sa famille,1800,FIDUCIAL,services financiers
+63,Michel Leclercq et sa famille,1800,GROUPE DECATHLON,distribution
+65,Clément Fayat et sa famille,1700,FAYAT,btp
+65,Famille Michelin,1700,MICHELIN,automobile
+65,Jean-Claude Mimran et sa famille,1700,GROUPE MIMRAN,holding
+68,Gerard Déprez et sa famille,1600,LOXAM,services
+68,Famille Savare,1600,FRANÇOIS-CHARLES OBERTHUR,industrie
+70,Stéphane Courbit,1500,LOV GROUP,holding
+70,Robert Mouawad et sa famille,1500,MOUAWAD,luxe
+70,Alain Taravella et sa famille,1500,ALTAREA COGEDIM,immobilier
+73,Eric Duval et sa famille,1400,GROUPE DUVAL,immobilier
+73,Jacques-Antoine Granjon,1400,VEEPEE,numérique
+73,Jean-Pierre Lamoure et famille Radat,1400,GROUPE ATLANTIC,industrie
+73,Jacques Gaston Murray,1400,MURRAY HOLDINGS,immobilier
+77,Léo Bahadourian et Patrick Bahadourian ainsi que leur famille,1300,EEF (GRAND FRAIS),holding
+77,Gonzalve Bich et sa famille,1300,BIC,industrie
+77,Edouard Carmignac et sa famille,1300,CARMIGNAC GESTION,services financiers
+77,Jean-Pierre Cayard et Edith Cayard ainsi que leur famille,1300,LA MARTINIQUAISE,vins
+77,"Louis Desanges et Familles Desanges, Gérondeau, Maréchal, Pinault, Schelcher",1300,SAFRAN,industrie
+77,Christopher Descours et sa famille,1300,EPI,holding
+77,Frédéric Gervoson et Familles Chapoulart et Gervoson,1300,ANDROS,agroalimentaire
+77,Yves Guillemot et sa famille,1300,UBISOFT,internet
+77,Famille Le Lous,1300,URGO,pharmacie
+77,Olivier Pelat,1300,EUROPEQUIPEMENTS,immobilier
+77,Patrice Pichet et sa famille,1300,GROUPE PICHET,immobilier
+77,Famille Rolloy,1300,PROMOGIM GROUPE,immobilier
+77,Jérôme Seydoux et sa famille,1300,PATHE,cinéma
+77,Lionel Viret et sa famille,1300,GROUPE STAGO,pharmacie
+91,Marie-Helène Dick et Jean-Pierre Dick ainsi que leur famille,1200,VIRBAC,pharmacie
+91,Georges Gaspard et sa famille,1200,LYRECO,distribution
+91,Christian Louboutin,1200,CHRISTIAN LOUBOUTIN,luxe
+91,Jacques Merceron-Vicat et sa famille,1200,VICAT,btp
+91,Charles Ruggieri et sa famille,1200,BATIPART INVEST,holding
+91,Serge Varsano et sa famille,1200,SUCRES ET DENREES,services
+97,Jean-Paul Clozel et Martine Clozel,1100,IDORSIA,pharmacie
+97,Didier Domange et sa famille,1100,SAFRAN,industrie
+97,Philippe Journo,1100,COMPAGNIE DE PHALSBOURG,immobilier
+97,Jean Madar et sa famille,1100,INTER PARFUMS,cosmétiques
+97,Bernard Magrez,1100,BERNARD MAGREZ GRANDS VIGNOBLES,vins et champagne
+97,Marie-Jeanne Meyer et Leopold Meyer ainsi que leur famille,1100,CAILLE,holding
+97,Famille Papillaud,1100,GROUPE ALMA,agroalimentaire
+97,Iskandar Safa,1100,PRIVINVEST,industrie
+105,Christian Burrus et sa famille,1000,DIOT,assurances
+105,Guillaume Dauphin et sa famille,1000,GUY DAUPHIN ENVIRONNEMENT,holding
+105,Thierry Gillier et sa famille,1000,ZADIG & VOLTAIRE,consommation
+105,"Benoît Martinot-Lagarde et Familles Lefebvre, Barbier et Sarrut",1000,GROUPE LEFEBVRE SARRUT,services
+105,Philippe Maubert et sa famille,1000,ROBERTET,chimie
+110,Elisabeth Badinter et sa famille,950,PUBLICIS,publicité
+110,Pierre Bouriez et François Bouriez ainsi que leur famille,950,GROUPE LOUIS DELHAIZE,distribution
+110,"Michel David-Weill et familles de Solages, Bernheim et Guyot",950,EURAZEO,holding
+113,André Einaudi et sa famille,900,ORTEC EXPANSION,services
+113,Familles de Grandry et Baguenault de Puchesse,900,DESCOURS ET CABAUD,distribution
+113,Chuc Hoang et Nicolas Hoang ainsi que leur famille,900,MI29 - EUROBAIL,immobilier
+113,Philippe Louis-Dreyfus et Edouard Louis-Dreyfus ainsi que leur famille,900,LOUIS-DREYFUS ARMATEURS,transports
+113,Michel Ohayon,900,HERMIONE PEOPLE & BRANDS (HPB),immobilier
+113,Philippe Sereys de Rothschild et son frère et sa soeur,900,BARON PHILIPPE DE ROTHSCHILD,vins
+119,Bruno Chambelland,850,CHRISTIAN LOUBOUTIN,luxe
+119,Henri Chibret et Jean-Frédéric Chibret,850,LABORATOIRES THEA,pharmacie
+119,Etienne Frechin et sa famille,850,VETOQUINOL,pharmacie
+119,Roland Gomez et Evelyne Gomez ainsi que leur famille,850,PROMAN,services
+119,Olivier Mitterrand et sa famille,850,BASSAC (EX LES NOUVEAUX CONSTRUCTEURS,immobilier
+119,Philippe Oddo et sa famille,850,ODDO BHF,services financiers
+119,Bruno Rousset,850,EVOLEM,holding
+126,Didier Ferré et sa famille,825,FERRE HOTELS,hôtellerie
+126,Frédéric Rouzaud et sa famille,825,LOUIS ROEDERER,vins
+128,Bernard Charlès,800,DASSAULT SYSTEMES,numérique
+128,Stéphane Delachaux et sa famille,800,DELACHAUX,industrie
+128,Jean-Claude Le Lan et sa famille,800,ARGAN,immobilier
+128,Jean-Michel Signoles et sa famille,800,GOYARD,luxe
+128,Beny Steinmetz,800,BSG RESOURCES,services
+128,Pierre-Edouard Stérin,800,OTIUM CAPITA,numérique
+128,Moez-Alexandre Zouari et Soraya Zouari ainsi que leur famille,800,GROUPE ZOUARI,distribution
+135,Alex Bongrain et sa famille,750,SAVENCIA,agroalimentaire
+135,Irène Gosset et famille Colonna de Giovellina,750,POCHET,industrie
+135,Yves Journel,750,SAGESSE RETRAITE SANTE,maisons de retraite
+135,Eric de Rothschild et Robert de Rothschild ainsi que leur famille,750,LAFITE ROTHSCHILD,services financiers
+139,Mathieu Chabran et Antoine Flamarion,725,TIKEHAU CAPITAL,services financiers
+139,Philippe Ginestet et sa famille,725,GIFI/TATI,distribution
+139,Franck Julien,725,ATALIAN,services
+139,Denis Oussadon et Jacques Benarroch,725,GROUPE BO,immobilier
+143,Philippe Austruy et sa famille,700,GROUPE SIS,holding
+143,Michaël Benabou,700,FINANCIERE SAINT JAMES,holding
+143,Walter Butler,700,BUTLER INDUSTRIE,holding
+143,Didier Deconinck et sa famille,700,TARKETT,industrie
+143,David Despinasse et Laurent Despinasse ainsi que leur famille,700,DESPI (GRAND FRAIS),holding
+143,Denis Dumont et sa famille,700,PROSOL GESTION,holding
+143,Danièle Kapel-Marcovici et sa famille,700,RAJA,industrie
+143,Famille Lambert,700,LDC,agroalimentaire
+143,Jacky Lorenzetti et sa famille,700,OVALTO INVESTISSEMENT,immobilier
+143,Corinne Mentzélopoulos,700,CHATEAU MARGAUX,vins
+143,Sébastien Picciotto,700,ORFIM,holding
+143,Christian Roulleau et sa famille,700,SAMSIC,services
+155,Maurice Bansay,675,APSYS,immobilier
+155,Eric Hémar,675,ID LOGISTICS,transports
+157,Jean-Paul Bigard et sa famille,650,GROUPE BIGARD,agroalimentaire
+157,Olivier Halley et sa famille,650,GROUPE HALLEY - H PARTNER GROUP,holding
+157,Alain Madar et sa famille,650,FONCIERE DU ROND POINT,immobilier
+157,Richard Mille et sa famille,650,MONTRES RICHARD MILLE,luxe
+157,Yvan Steyert et sa famille,650,SOCOMEC,industrie
+157,Alexandre Yazdi et Laurent Ritter,650,VOODOO,numérique
+163,François Faiveley et sa famille,625,WABTEC,industrie
+163,Baudouin Monnoyeur et sa famille,625,GROUPE MONNOYEUR,distribution
+163,Jean-François Moueix et Jean Moueix ainsi que leur famille,625,VIDELOT,vins
+163,Henri Vaney Barande et sa famille,625,SYNERGIE,services
+167,Sébastien Aguettant,600,DELPHARM,chimie
+167,Catherine Barthélémy et sa famille,600,MANULOC,services
+167,Philippe Chausson et Pierre-Georges Chausson ainsi que leur famille,600,CHAUSSON MATERIAUX,distribution
+167,Philippe Corrot et Adrien Nussenbaum,600,MIRAKL,numérique
+167,Pierre Courgeon et Familles Picq et Schiever,600,SCHIEVER DISTRIBUTION,distribution
+167,Eric Derville et sa famille,600,MOBIVIA,services
+167,Dominique Desseigne et Famille Desseigne-Barrière,600,GROUPE LUCIEN BARRIERE,hôtellerie
+167,Stéphane Eimer,600,BIOGROUP-LCD,santé
+167,Francis Holder et sa famille,600,GROUPE HOLDER,agroalimentaire
+167,Léone Meyer et sa famille,600,PHISON CAPITAL,holding
+167,Bruno Moineville,600,ALTICE,telecoms
+167,Guillaume Paoli et Nicolas Chartier,600,ARAMIS GROUP,informatique
+167,Jean-Claude Pick et sa famille,600,COFINANCE,immobilier
+167,Marc Prikazsky,600,CEVA SANTE ANIMALE,pharmacie
+167,Frédéric Sanchez,600,FIVES,industrie
+167,Julien Sorbac,600,VEEPEE,numérique
+167,Pierre Vausselin et sa famille,600,AROMA ZONE,luxe
+167,Pierre-Anthony Verspieren et sa famille,600,ASSURANCES VERSPIEREN,assurances
+167,Hervé Vinciguerra,600,ALIX AM,informatique
+186,Daniel Derichebourg,575,DERICHEBOURG,services
+186,Jérôme Duval et Familles Aubert et Duval,575,ERAMET,industrie
+186,Pierre Esnée et Esnée Marie-Laure,575,SD2P,hôtellerie
+189,Michel Baulé,550,EXIMIUM,holding
+189,Famille Daher,550,DAHER,industrie
+189,Familles Faure et Machet,550,FM LOGISTIC,transports
+189,Pierre Gattaz et sa famille,550,RADIALL,industrie
+189,Claude Guedj et sa famille,550,GROUPE CRIT,services
+189,Pâris Mouratoglou et David Corchia,550,TOTAL EREN,energie
+189,Jean-Luc Petithuguenin et sa famille,550,PAPREC GROUPE,services
+189,Maurice Tchénio et sa famille,550,ALTAMIR,holding
+197,Simon Azoulay,525,ALTEN,numérique
+197,André Coutier et sa famille,525,AKWEL (EX MGI COUTIER),automobile
+197,Jean-Jacques Frey et sa famille,525,COMPAGNIE FREY,holding
+197,Pierre Pasquier et sa famille,525,SOPRA STERIA,numérique
+201,Delphine André et sa famille,500,GROUPE CHARLES ANDRE TRANSPORTS,transports
+201,Stéphane Baudry et sa famille,500,WALDEN,services
+201,Olivier Bertrand,500,GROUPE BERTRAND,agroalimentaire
+201,Luc de Chammard,500,NEURONES,numérique
+201,Elisabeth Coquet-Reinier et sa famille,500,ONET,services
+201,"Florian Douetteau et Clément Stenac, Marc Batty, Thomas Cabrol",500,DATAIKU,internet
+201,Jean-Paul Dubreuil et sa famille,500,GROUPE DUBREUIL,distribution
+201,Jacques Essebag (dit Arthur),500,AWPG,médias
+201,Frédéric Jousset,500,WEBHELP,services
+201,Pierre Kosciusko-Morizet et Pierre Krings,500,KERNEL INVESTISSEMENTS,holding
+201,François Lazard et sa famille,500,LAZARD GROUP REAL ESTATE,immobilier
+201,"Stanislas Niox-Chateau et Ivan Schneider, Jessy Bernal",500,DOCTOLIB,numérique
+201,Yvon (dit Franck) Provost et sa famille,500,PROVALLIANCE,services
+201,David de Rothschild et Edouard de Rothschild ainsi que leur famille,500,ROTHSCHILD & CO,holding
+215,Christian Boiron et sa famille,480,BOIRON,pharmacie
+215,Famille Foriel-Destezet,480,ADECCO,services
+217,Stanislas Rollin et sa famille,470,BOISSEE FINANCES,hôtellerie
+218,Jonathan Cherki,460,CONTENTSQUARE,numérique
+219,Jean-Paul Berthomé et sa famille,450,EXPANSCIENCE,pharmacie
+219,Henri Chambon et sa famille,450,GROUPE SOCRI,immobilier
+219,Hugues Dewavrin et sa famille,450,POMONA,distribution
+219,Jean-François Gobertier,450,GDP VENDOME,immobilier
+219,Gérard Leduc et sa famille,450,ETHYPHARM,pharmacie
+219,Famille Lejeune,450,GROUPE LEJEUNE,holding
+219,Antoine Raymond et sa famille,450,A. RAYMOND,industrie
+219,Patrick Teycheney,450,COLISEE PATRIMOINE GROUP,maisons de retraite
+227,Jean-Paul Agon et sa famille,440,L’OREAL,cosmétiques
+227,Philippe Bénacin,440,INTER PARFUMS,cosmétiques
+227,Michel Dancoisne et Pascal Imbert ainsi que leur famille,440,WAVESTONE,services
+227,David Khuat-Duy et sa famille,440,IVALUA,numérique
+231,Guy Verrecchia et sa famille,430,UGC,cinéma
+232,Famille Aulas,420,HOLNEST,holding
+232,Nicole Bru-Magniez,420,FONDATION BRU,holding
+232,Jean-Pierre Guichard et sa famille,420,MANUTAN,distribution
+232,Jean-Claude Lavorel et sa famille,420,LAVOREL HOTELS,hôtellerie
+232,Joseph Le Mer et sa famille,420,SERMETA,industrie
+232,Lorène Martel et sa famille,420,CARAVELLE,holding
+232,Théodore Masliah,420,FINAMAS,immobilier
+232,Patrick Pariente et Gérard Pariente,420,MAISONS PARIENTE,hôtellerie
+232,Gérard Perse,420,CHATEAU PAVIE,vins
+241,Jean-Paul Baudecroux et sa famille,410,NRJ GROUP,médias
+241,Christophe Bonduelle et sa famille,410,BONDUELLE,agroalimentaire
+241,Jean-Pierre Dréau,410,GROUPE SNEF,industrie
+241,Annette Roux et sa famille,410,GROUPE BENETEAU,industrie
+245,"Jonathan Anguelov et Xavier Durand, Olivier Pailhes et Pierre-Baptiste Béchu",400,AIRCALL,télécoms
+245,Elie Assouline et Maurice Assouline ainsi que leur famille,400,CAFPI,services financiers
+245,Pierre Bastid,400,HOUGOU,holding
+245,Pierre Bontemps,400,CORIOLIS,telecoms
+245,Eric Bubendorff et sa famille,400,BUBENDORFF,industrie
+245,Jean Canzoneri et Thomas Pasquet,400,OGURY,numérique
+245,Jérôme Chabin et Jade et Malik Benrejdal,400,IAD,immobilier
+245,Michel Ducros et sa famille,400,EUCELIA,holding
+245,Familles Duval-Fleury et Corneau,400,COGEPA,holding
+245,Marie Farines et sa famille,400,GROUPE PRIVILEGE,hôtellerie
+245,Guillaume Fonkenell,400,PHARO MANAGEMENT,services financiers
+245,Jacques Gad et Françoise Roblin ainsi que leur famille,400,COFIGAD,hôtellerie
+245,Gabriel Harari et Raphaël Harari ainsi que leur famille,400,GAB CAPITAL,holding
+245,Philippe Jabre et sa famille,400,JABRE FAMILY OFFICE,services financiers
+245,Charles Kloboukoff et sa famille,400,LEA NATURE,agroalimentaire
+245,Anne Leitzgen et sa famille,400,SCHMIDT GROUPE,industrie
+245,Rodolphe Marchais et sa famille,400,TAT GROUP,services
+245,Jean-Claude Marian et sa famille,400,CIMMOREGENT,immobilier
+245,Stéphane Pacaud,400,WGCZ,numérique
+245,Michel-Henri Pinaire et sa famille,400,FSD,automobile
+245,Jean-Paul Rivière,400,GROUPE ALTITUDE,télécoms
+245,Marc Simoncini,400,JAINA CAPITAL,holding
+245,Patrick Thelot et sa famille,400,ARMONIA,services
+245,Aubert de Villaine et sa famille,400,ROMANEE CONTI,vins
+269,Carol Duval-Leroy et sa famille,390,DUVAL-LEROY,vins
+269,Jerôme François et sa famille,390,TFF GROUP,industrie
+269,Bertrand Voyer et familles fondatrices,390,GROUPE PREVOIR,assurances
+272,Xavier Alvarez-Roman,380,HERACLES,immobilier
+272,Roland Beaumanoir,380,GROUPE BEAUMANOIR,distribution
+272,Albert Hadjez et sa famille,380,GROUPE HADJEZ,distribution
+272,Xavier Omerin et sa famille,380,OMERIN,industrie
+272,Patrick Poirrier et sa famille,380,GROUPE CEMOI,agroalimentaire
+272,Philippe Veran et Bruno Thevenet,380,UPPERSIDE,holding
+272,Robert Zolade,380,ELIOR,services
+279,Laurent Batteur et sa famille,370,BATTEUR,cosmétiques
+279,Alfred Cointreau et sa famille,370,REMY COINTREAU,vins
+279,Daniel Julien,370,TELEPERFORMANCE,services
+282,Marcel Braud et sa famille,360,MANITOU,industrie
+282,Philippe Briand,360,GROUEP ARCHE (CITYA),services
+282,Jean-Hubert Delon et Geneviève d’Alton ainsi que leur famille,360,CHATEAU LEOVILLE LAS CASES,vins
+282,Dexter Goei,360,ALTICE USA,télécoms
+282,Jacqueline Himsworth-Braud et sa famille,360,MANITOU,industrie
+287,Remy Adrion et sa famille,350,FUTURA FINANCES (NOZ),distribution
+287,Famille Bollinger,350,SOCIETE JACQUES BOLLINGER,vins
+287,Famille Cardin,350,PIERRE CARDIN,luxe
+287,Rodolphe Carle et Edouard Carle,350,BABILOU,services
+287,Jean-Louis Costes,350,SAINT HONORE,hôtellerie
+287,Jean-Bernard Falco et Céline Falco ainsi que leur famille,350,PARIS INN GROUP,hôtellerie
+287,Yves Forestier et Jean-Claude Forestier,350,PETIT FORESTIER,services
+287,Frédéric Grimaud et sa famille,350,GROUPE GRIMAUD,elevage
+287,David Gurlé,350,SYMPHONY,numérique
+287,Frédéric Merlin,350,L’AVENUE,immobilier
+287,Eric Neubauer et Hervé Neubauer ainsi que leur famille,350,NEUBAUER,automobile
+287,Jean Louis Noisiez et sa famille,350,GROUPE GSF,services
+287,Jean-Louis Oger et sa famille,350,GROUPE OGER - KANTYS,santé
+287,Gabriel Pacheco et Managers,350,NEW IMMO GROUP,immobilier
+287,Famille Richardson,350,RICHARDSON,distribution
+287,Roger Rosnoblet et sa famille,350,PROVENCIA,distribution
+287,Famille Simonet,350,VYGON,pharmacie
+287,Hugues Souparis,350,ENOWE,industrie
+287,Jean-Christophe Vidal-Revel et Cécile Sibertin-Blanc,350,VALFIDUS,btp
+306,Jérôme Benoît et sa famille,340,DELTA PLUS GROUP,industrie
+306,Philippe Catteau et Bertrand Catteau ainsi que leur famille,340,CATINVEST,immobilier
+306,Denis Merlaut et Famille Villars,340,BERNARD TAILLAN FRANCE,vins
+306,Christian Moueix et Edouard Moueix ainsi que leur famille,340,ETABLISSEMENTS JP MOUEIX,vins
+306,Olivier Schiller et sa famille,340,SEPTODONT,pharmacie
+311,Bruno Borie et Marie Borie ainsi que leur famille,330,JEAN EUGENE BORIE,vins
+311,Jean-Louis Bouchard,330,ECONOCOM GROUP,services
+311,Jean-Michel Cazes et Sylvie Cazes ainsi que leur famille,330,CHATEAU LYNCH BAGES,vins
+311,Aurélien Chaufour et sa famille,330,ANJAC,cosmétiques
+311,Jean-Pierre Cointreau,330,RENAUD COINTREAU,vins
+311,François Desprez et Bruno Desprez ainsi que leur famille,330,FLORIMOND DESPREZ,agroalimentaire
+311,Jean Duforest et Jean-Luc Souflet ainsi que leur famille,330,IDKIDS,distribution
+311,Roger-François Gagneraud et sa famille,330,GAGNERAUD,btp
+311,Arnaud Gobet et Thierry Gobet,330,INNOTHERA,pharmacie
+311,Aliza Jabès et sa famille,330,NUXE,cosmétiques
+311,Arnaud Lagardère et sa famille,330,LAGARDERE,médias
+311,Renaud Laplanche,330,UPGRADE,numérique
+311,Guy Mathiolon et sa famille,330,SERFIM,btp
+311,Pascal Pasquier et sa famille,330,BRIOCHE PASQUIER,agroalimentaire
+311,Marc Sellam,330,IONIS EDUCATION,enseignement
+311,Emmanuel Viellard et sa famille,330,LISI,industrie
+327,Patrick Ballu,325,EXEL INDUSTRIES,industrie
+327,Alexandra Pereyre de Nonancourt et Stéphanie Meneux de Nonancourt ainsi que leur famille,325,LAURENT-PERRIER,vins
+327,Maurice Ricci et sa famille,325,AKKA TECHNOLOGIES,numérique
+330,Daniel Abittan et Jonathan Abittan,320,ACUITIS,distribution
+330,Claude Cheton et sa famille,320,EMERA,maisons de retraite
+330,Matthieu Courtecuisse,320,SIA PARTNERS,services
+330,Famille de Boüard de Laforest,320,CHATEAU ANGELUS,vins
+330,Didier Mennechet et Philippe Peculier ainsi que leur famille,320,SGMR LES OPALINES,maisons de retraite
+330,Jean-Baptiste Pietri et sa famille,320,CONSTRUCTA,immobilier
+336,Sidonie Dumas et Famille Seydoux,310,GAUMONT,cinéma
+336,François Guillin et sa famille,310,GUILLIN,industrie
+336,Gilles de Larouzière et Famille Henriot,310,MAISONS & DOMAINES HENRIOT,vins
+336,André Liébot et sa famille,310,GROUPE LIEBOT,industrie
+336,Hassen Rachedi,310,HYDROGEN REFUELING SOLUTIONS,industrie
+341,Stanislas de Bentzmann et Godefroy de Bentzmann,305,DEVOTEAM,services
+341,Famille Chancereul,305,LDC,agroalimentaire
+343,Marie-Odile Amaury et sa famille,300,EDITIONS AMAURY,médias
+343,Hervé Arditty,300,IXCORE,industrie
+343,Famille Baud,300,LA VALAISANNE IMMOBILIER,finance
+343,Xavier Biotteau et Luc Biotteau ainsi que leur famille,300,ERAM,distribution
+343,Lalou Bize-Leroy et sa fille,300,ROMANEE CONTI,vins
+343,Guillaume Caillot et Thibault Viguier,300,L’ECOLE FRANCAISE,services
+343,Philippe Castéja et sa famille,300,BORIE MANOUX,vins
+343,Georges Cohen,300,COHEN HOLDING,holding
+343,Grégory Declercq et Pierre Juhen,300,GROUPE FINOLI,holding
+343,Olivier Dolbeau et sa famille,300,AIRVANCE,industrie
+343,Laurent Dumas,300,EMERIGE,immobilier
+343,Gaetan Grieco et sa famille,300,CHAUSSEA,habillement
+343,Christophe Gruy et sa famille,300,MAIA,immobilier
+343,Kévin Guénégan,300,AD EDUCATION,enseignement
+343,Denis Ladegaillerie,300,BELIEVE,informatique
+343,Eric Larchevèque et Joël Pobeda et Nicolas Bacca,300,LEDGER,numérique
+343,Maurice Lévy,300,PUBLICIS,publicité
+343,Dominique Mauffrey et sa famille,300,MAUFFREY,transports
+343,Claude Perdriel et sa famille,300,GROUPE PERDRIEL,industrie
+343,Armando Pereira,300,ALTICE GROUP,télécoms
+343,Jean Pigozzi,300,LIMOLAND,holding
+343,Famille Rohault de Fleury,300,GROUPE ACCUEIL,holding
+343,Pierre Rousseau et sa famille,300,RAPIDO,automobile
+343,Famille Ruiz,300,INOVIE,santé
+343,Cédric Varasteh et Thierry Rathuille ainsi que leur famille,300,EURO TECHNO COM,distribution
+343,Jacques Verlingue et sa famille,300,ADELAÏDE,assurances
+343,Alain Weill et sa famille,300,"WHM (L’EXPRESS, LILY OF THE VALLEY...)",médias
+343,Daniel Yanisse et Jonathan Perichon,300,CHECKR,numérique
+343,Jean-David Zorbibe et sa famille,300,GROUPE ZORBIBE,holding
+372,Pierre Alloin et sa famille,290,FIRALP,btp
+372,Patrick Combes,290,VIEL ET CIE,finance
+372,Famille Labruyère,290,GROUPE LABRUYERE,immobilier
+372,Famille Manoncourt,290,CHATEAU FIGEAC,vins
+372,Alain Thiénot,290,ARVITIS,vins
+372,Alexandre-Jacques Vernazza et sa famille,290,MEDIACO LEVAGE,transports
+378,Louis Ballande et sa famille,280,GROUPE BALLANDE,holding
+378,Lucien Deret et sa famille,280,DERET,transports
+378,Philippe Lamazou,280,GROUPE CIRCET,btp
+378,Laurent Lévy,280,OPTICAL CENTER,santé
+378,Samuel Tual et Jean-Philippe Papin,280,ACTUAL LEADER GROUP,services
+378,Paul-François Vranken et sa famille,280,VRANKEN POMMERY,vins
+384,Marcel Guigal et sa famille,275,GUIGAL,vins
+384,Alfred Tesseron et sa famille,275,CHATEAU PONTET-CANET,vins
+386,Olivier Breittmayer,270,EXCLUSIVE GROUP,numérique
+386,Henri Brière et sa famille,270,FOSELEV,services
+386,Luc Darbonne et sa famille,270,DAREGAL,agroalimentaire
+386,Jean-Luc Raymond et Charles Raymond,270,CIRCUIT GEORGES RAYMOND,cinéma
+386,Bruno Schnepp,270,GROUPE CARSO,pharmacie
+386,Claude Thiriet et sa famille,270,MAISON THIRIET,distribution
+392,Joël Seché et sa famille,265,SECHE ENVIRONNEMENT,services
+393,Bernard Huvé et sa famille,260,SII,services
+393,Gilles Kohler et Jean-Philippe Kohler ainsi que leur famille,260,LISI,industrie
+393,Robert Lascar,260,GROUPE OMNIUM,distribution
+396,Philippe Cuvelier,255,CLOS FOURTET,vins
+397,David Amar et sa famille,250,MATIGNON INVESTISSEMENT ET GESTION,holding
+397,Gérard Autajon et sa famille,250,AUTAJON,industrie
+397,Stéphane Bailly et sa famille,250,CAR AVENUE,automobile
+397,Jean-Claude Bertojo et sa famille,250,SPIRIT,immobilier
+397,Jean-Marc Bouchet et sa famille,250,QAIR,energie
+397,Pieric Brenier et sa famille,250,C’PRO,services
+397,Jean-Daniel Capelle et sa famille,250,TRANSPORTS CAPELLE,services
+397,Bruno Caron,250,NORAC,agroalimentaire
+397,Sophie Defforey et sa famille,250,AQUASOURCA,holding
+397,Michel Giboire et sa famille,250,GROUPE GIBOIRE,immobilier
+397,Bernard Hayot et sa famille,250,GBH,automobile
+397,Jean-François Hénin et sa famille,250,PACIFICO,holding
+397,Dominique Louis,250,ASSYSTEM,services
+397,Xavier Marie,250,MARCO POLO,habillement
+397,Jacques Moyrand et familles fondatrices,250,GATTEFOSSE,cosmétiques
+397,Famille Odin,250,SOPRA STERIA,numérique
+397,Familles Pol-Roger et de Billy,250,CHAMPAGNE POL-ROGER,vins
+397,Famille Richard,250,CAFES RICHARD,distribution
+397,Charles Robinet-Duffo et Rémy Robinet-Duffo ainsi que leur famille,250,GROUPE HENNER,assurances
+397,Bernard Rossmann et sa famille,250,ROSSMANN,industrie
+397,Nicolas Rousselet et sa famille,250,GROUPE ROUSSELET,holding
+397,Christian Tafanel et Guy Tafanel ainsi que leur famille,250,TAFANEL,distribution
+397,Frédéric Trinel et Pierre-François Thaler,250,ECOVADIS,services
+397,Arnaud Vaissié,250,INTERNATIONAL SOS,services aux entreprises
+421,Nicolas Dessaigne et Julien Lemoine,240,ALGOLIA,services
+421,Thibaud Elziere,240,EFOUNDERS,numérique
+421,Patrick Martin et la famille Bradley-Martin,240,MARTIN-BELAYSOUD EXPANSION,distribution
+421,Olivier Monin et sa famille,240,GROUPE MONIN,agroalimentaire
+421,Pierre Prieux,240,ALCEN,services
+421,Emmanuel Vasseneix et sa famille,240,LAITERIE DE ST-DENIS DE L’HÔTEL,agroalimentaire
+421,Alain Vauthier et Catherine Vauthier ainsi que leur famille,240,CHATEAU AUSONE,vins
+428,Franck Allard et sa famille,230,FILHET-ALLARD,assurances
+428,Jean-Charles Boisset et Nathalie Berges-Boisset ainsi que leur famille,230,GRANDS VINS JC BOISSET,vins
+428,Francis Esmenard et sa famille,230,ALBIN MICHEL,distribution
+428,Jean-Claude Gueudet et sa famille,230,GUEUDET,automobile
+428,Matthieu Gufflet et management,230,EPSA,services
+428,Joseph Helfrich et Gunther Bimmerle,230,GRANDS CHAIS DE FRANCE,vins
+428,"Laurent Milchior et familles Milchior, Tarica, Lindemann",230,ETAM DEVELOPPEMENT,distribution
+428,Thierry Petit et David Dayan ainsi que leur famille,230,SHOWROOMPRIVE,internet
+428,Jean-Thomas Schmitt et sa famille,230,HEPPNER,transports
+437,Isabelle Roch et et les héritiers de Charles Roch et de Henry-Frédéric Roch,225,ROMANEE CONTI,vins
+438,Famille Aguettant,220,AGUETTANT,pharmacie
+438,Philippe Baudesson de Chanville d'Arc et Christian Raisson,220,COLIBRI MANOMANO,numérique
+438,Matthieu Beucher,220,KLAXOON,numérique
+438,Jean-Paul Bize,220,AMS GROUP,holding
+438,Pascal Bovis,220,GROUPE BOVIS,transports
+438,Daniel Cathiard et Florence Cathiard ainsi que leur famille,220,CHATEAU SMITH HAUT LAFITTE,vins
+438,Gilbert Costes et Thierry Costes,220,GROUPE BEAUMARLY,hôtellerie
+438,Jean-Claude Labrune et sa famille,220,CEGEDIM,numérique
+438,Christian Langlois-Meurinne et famille Meheut,220,IDI,finance
+438,Jean-Louis Mosca,220,BY MY CAR GROUPE,automobile
+438,Jean-Charles Naouri,220,RALLYE-CASINO,distribution
+438,Michel Picoty et sa famille,220,PICOTY,distribution
+438,Frédéric Puzin,220,CORUM,finance
+438,Jérôme Quentin-Mauroy et sa famille,220,TAGERIM,immobilier
+438,Paul Raguin et sa famille,220,EOLANE,industrie
+438,Olivier Sadran,220,NEWREST,services
+438,Laurent Uberti et Olivier Camino,220,GROUPE SITEL,services
+455,Patrice Joppé et sa famille,145,GROUPE SAMSE,distribution
+456,Jean-Luc Bernard,210,ASTEK,services
+456,François-Xavier Borie et sa famille,210,CHATEAU GRAND PUY LACOSTE,vins
+456,Jean-Claude Bourrelier et sa famille,210,BOURRELIER GROUPE,distribution
+456,Michel Guerbet et sa famille,210,GUERBET,pharmacie
+456,Jean-Marie Guian et sa famille,210,SPB,assurances
+456,Henri Lurton et sa famille,210,BRANE CANTENAC,vins
+456,Jean-Marie Savalle et sa famille,210,ISAGRI,numérique
+456,Gilles Schnepp,210,LEGRAND,industrie
+464,Eric Jacquet,205,JACQUET METAL SERVICE,industrie
+465,Didier Blaise,200,ALLOPNEUS,distribution
+465,Alex Bouaziz,200,DEEL,numérique
+465,Serge Cachan et ses frères,200,ASTOTEL,hôtellerie
+465,Jean-Claude Condamin et sa famille,200,SOGELYM DIXENCE,immobilier
+465,famille Condat,200,GROUPE CONDAT,chimie
+465,Thierry Déau,200,MERIDIAM,finance
+465,Olivier Dellenbach et Béatrice Dellenbach,200,CHAPSVISION,numérique
+465,Lionel Desage et Guillaume Franc,200,YNOV,enseignement
+465,François Dutilleul et sa famille,200,RABOT DUTILLEUL,btp
+465,Olivier Goy,200,OCTOBER,finance
+465,Marc Grosman et Laurent Grosman ainsi que leur famille,200,CELIO,habillement
+465,François Guichard et Pierre Guichard ainsi que leur famille,200,CLINIQUES GBNA,santé
+465,Louis-Fabrice Latour et sa famille,200,LOUIS LATOUR,vins
+465,Ludovic Le Moan et Christophe Fourtet,200,SIGFOX,numérique
+465,Laure Louis-Dreyfus,200,LOUIS-DREYFUS COMPANY,holding
+465,Famille Machefert,200,GROUPE MACHEFERT,hôtellerie
+465,Alain Martineau et sa famille,200,GROUPE MECANIQUE DECOUPAGE,automobile
+465,Franky Mulliez,200,KILOUTOU,services
+465,Dominique Pellé,200,GALACTUS INVEST,maisons de retraite
+465,Alexandre Prot et Steve Anavi,200,QONTO OLINDA,finance
+465,Allan Sichel et sa famille,200,MAISON SICHEL,vins
+465,Derek Remy Smith,200,TRESOR DU PATRIMOINE,distribution
+465,Pascal Teurquetil et sa famille,200,GROUPE MULLER,industrie
+465,Michel Venturini et sa famille,200,AUVENT,holding
+490,Famille Lurton,195,VIGNOBLES ANDRE LURTON,vins
+491,famille Chapoutier,190,CHAPOUTIER,vins
+491,Marie-Laurence Gouraud et Patricia Brochard et Bénédicte Mercier ainsi que leur famille,190,SODEBO,agroalimentaire
+491,famille Mähler-Besse,190,CHATEAU PALMER,vins
+491,Jean-Bernard Maurin,190,GROUPE MAURIN,automobile
+491,Alain Moussy,190,AB SCIENCE,pharmacie
+491,John Persenda et sa famille,190,SPHERE,industrie
+491,Henri Seydoux,190,PARROT,electronique
+491,Guy Tempereau et sa famille,190,GROUPE SERIS,services
+499,Daniel Harari,185,LECTRA,numérique
+500,Thierry Le Guénic,180,BURTON CAPITAL,distribution
