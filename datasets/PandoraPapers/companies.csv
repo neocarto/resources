@@ -1,164 +1,164 @@
-id,name,companies
-AFG,Afghanistan,2
-AGO,Angola,92
-ALB,congo,13
-ARE,United Arab Emirates,947
-ARG,Argentina,1448
-ARM,Armenia,67
-AUS,Australia,263
-AUT,Austria,164
-AZE,Azerbaijan,76
-BDI,Burundi,1
-BEL,Belgium,192
-BEN,Benin,3
-BFA,Burkina Faso,3
-BGD,Bangladesh,10
-BGR,Bulgaria,174
-BHS,The Bahamas,111
-BIH,Bosnia and Herzegovina,6
-BLR,Belarus,138
-BLZ,Belize,46
-BOL,Bolivia,29
-BRA,Bolivia,1407
-BRN,Brunei,3
-BWA,Botswana,1
-CAN,Canada,493
-CHE,Switzerland,1986
-CHL,Chile,248
-CHN,China,1892
-CIV,Ivory Coast,31
-CMR,Cameroon,8
-COD,Democratic Republic of the Congo,15
-COG,Republic of the Congo,13
-COL,Colombia,444
-CRI,Costa Rica,147
-CUB,Cuba,40
-CYP,Cyprus,994
-CZE,Czechia,176
-DEU,Germany,466
-DJI,Djibouti,2
-DNK,Denmark,66
-DOM,Dominican Republic,248
-DZA,Algeria,32
-ECU,Ecuador,109
-EGY,Egypt,180
-ERI,Eritrea,1
-ESP,Spain,751
-EST,Estonia,61
-ETH,Ethiopia,5
-FIN,Finland,55
-FJI,Fiji,3
-FRA,France,794
-GAB,Gabon,11
-GBR,United Kingdom,3936
-GEO,Georgia,95
-GHA,Ghana,39
-GIN,Guinea,5
-GNB,Guinea-Bissau,1
-GNQ,Equatorial Guinea,1
-GRC,Greece,283
-GTM,Guatemala,396
-GUY,Guyana,1
-HND,Honduras,146
-HRV,Croatia,51
-HTI,Haiti,17
-HUN,Hungary,77
-IDN,Indonesia,171
-IND,India,420
-IRL,Ireland,158
-IRN,Iran,46
-IRQ,Iraq,77
-ISL,Iceland,8
-ISR,Israel,531
-ITA,Italy,1062
-JAM,Jamaica,8
-JOR,Jordan,170
-JPN,Japan,134
-KAZ,Kazakhstan,314
-KEN,Kenya,134
-KGZ,Kyrgyzstan,27
-KHM,Cambodia,8
-KOR,South Korea,253
-KWT,Kuwait,62
-LAO,Laos,10
-LBN,Lebanon,412
-LBR,Liberia,5
-LBY,Libya,24
-LKA,Sri Lanka,22
-LTU,Lithuania,93
-LUX,Luxembourg,114
-LVA,Latvia,113
-MAR,Morocco,115
-MDA,Moldova,76
-MDG,Madagascar,12
-MEX,Mexico,297
-MKD,Macedonia,2
-MLI,Mali,8
-MLT,Malta,103
-MMR,Myanmar,2
-MNE,Montenegro,13
-MNG,Mongolia,5
-MOZ,Mozambique,20
-MRT,Mauritania,4
-MWI,Malawi,8
-MYS,Malaysia,118
-NAM,Namibia,2
-NCL,New Caledonia,1
-NER,Niger,5
-NGA,Nigeria,232
-NIC,Nicaragua,61
-NLD,Netherlands,323
-NOR,Norway,88
-NPL,Nepal,4
-NZL,New Zealand,77
-OMN,Oman,21
-PAK,Pakistan,95
-PAN,Panama,524
-PER,Peru,108
-PHL,Philippines,224
-PNG,Papua New Guinea,4
-POL,Poland,207
-PRI,Puerto Rico,5
-PRT,Portugal,487
-PRY,Paraguay,31
-PSX,Palestine,15
-QAT,Qatar,93
-ROU,Romania,163
-RUS,Russia,3694
-RWA,Rwanda,3
-SAU,Saudi Arabia,187
-SDN,Sudan,27
-SEN,Senegal,20
-SLE,Sierra Leone,4
-SLV,El Salvador,145
-SOM,Somalia,2
-SRB,Republic of Serbia,123
-SUR,Suriname,1
-SVK,Slovakia,47
-SVK,Slovakia,47
-SVN,Slovenia,40
-SWE,Sweden,144
-SWZ,eSwatini,2
-SYR,Syria,74
-TCD,Chad,7
-TGO,Togo,1
-THA,Thailand,175
-TJK,Tajikistan,50
-TKM,Turkmenistan,22
-TTO,Trinidad and Tobago,9
-TUN,Tunisia,26
-TUR,Turkey,221
-TWN,Taiwan,946
-TZA,Tanzania,23
-UGA,Uganda,8
-UKR,Ukraine,1373
-URY,Uruguay,418
-USA,United States of America,701
-UZB,Uzbekistan,70
-VEN,Venezuela,863
-VNM,Vietnam,89
-VUT,Vanuatu,3
-YEM,Yemen,15
-ZAF,South Africa,412
-ZMB,Zambia,20
-ZWE,Zimbabwe,49
+id,iso,name,companies
+004,AFG,Afghanistan,2
+008,ALB,congo,13
+012,DZA,Algeria,32
+024,AGO,Angola,92
+031,AZE,Azerbaijan,76
+032,ARG,Argentina,1448
+036,AUS,Australia,263
+040,AUT,Austria,164
+044,BHS,The Bahamas,111
+050,BGD,Bangladesh,10
+051,ARM,Armenia,67
+56,BEL,Belgium,192
+068,BOL,Bolivia,29
+070,BIH,Bosnia and Herzegovina,6
+072,BWA,Botswana,1
+076,BRA,Bolivia,1407
+084,BLZ,Belize,46
+096,BRN,Brunei,3
+100,BGR,Bulgaria,174
+104,MMR,Myanmar,2
+108,BDI,Burundi,1
+112,BLR,Belarus,138
+116,KHM,Cambodia,8
+120,CMR,Cameroon,8
+124,CAN,Canada,493
+144,LKA,Sri Lanka,22
+148,TCD,Chad,7
+152,CHL,Chile,248
+156,CHN,China,1892
+158,TWN,Taiwan,946
+170,COL,Colombia,444
+178,COG,Republic of the Congo,13
+180,COD,Democratic Republic of the Congo,15
+188,CRI,Costa Rica,147
+191,HRV,Croatia,51
+192,CUB,Cuba,40
+196,CYP,Cyprus,994
+203,CZE,Czechia,176
+204,BEN,Benin,3
+208,DNK,Denmark,66
+214,DOM,Dominican Republic,248
+218,ECU,Ecuador,109
+222,SLV,El Salvador,145
+226,GNQ,Equatorial Guinea,1
+231,ETH,Ethiopia,5
+232,ERI,Eritrea,1
+233,EST,Estonia,61
+242,FJI,Fiji,3
+246,FIN,Finland,55
+250,FRA,France,794
+262,DJI,Djibouti,2
+266,GAB,Gabon,11
+268,GEO,Georgia,95
+275,PSE,Palestine,15
+276,DEU,Germany,466
+288,GHA,Ghana,39
+300,GRC,Greece,283
+320,GTM,Guatemala,396
+324,GIN,Guinea,5
+328,GUY,Guyana,1
+332,HTI,Haiti,17
+340,HND,Honduras,146
+348,HUN,Hungary,77
+352,ISL,Iceland,8
+356,IND,India,420
+360,IDN,Indonesia,171
+364,IRN,Iran,46
+368,IRQ,Iraq,77
+372,IRL,Ireland,158
+376,ISR,Israel,531
+380,ITA,Italy,1062
+384,CIV,Ivory Coast,31
+388,JAM,Jamaica,8
+392,JPN,Japan,134
+398,KAZ,Kazakhstan,314
+400,JOR,Jordan,170
+404,KEN,Kenya,134
+410,KOR,South Korea,253
+414,KWT,Kuwait,62
+417,KGZ,Kyrgyzstan,27
+418,LAO,Laos,10
+422,LBN,Lebanon,412
+428,LVA,Latvia,113
+430,LBR,Liberia,5
+434,LBY,Libya,24
+440,LTU,Lithuania,93
+442,LUX,Luxembourg,114
+450,MDG,Madagascar,12
+454,MWI,Malawi,8
+458,MYS,Malaysia,118
+466,MLI,Mali,8
+470,MLT,Malta,103
+478,MRT,Mauritania,4
+484,MEX,Mexico,297
+496,MNG,Mongolia,5
+498,MDA,Moldova,76
+499,MNE,Montenegro,13
+504,MAR,Morocco,115
+508,MOZ,Mozambique,20
+512,OMN,Oman,21
+516,NAM,Namibia,2
+524,NPL,Nepal,4
+528,NLD,Netherlands,323
+540,NCL,New Caledonia,1
+548,VUT,Vanuatu,3
+554,NZL,New Zealand,77
+558,NIC,Nicaragua,61
+562,NER,Niger,5
+566,NGA,Nigeria,232
+578,NOR,Norway,88
+586,PAK,Pakistan,95
+591,PAN,Panama,524
+598,PNG,Papua New Guinea,4
+600,PRY,Paraguay,31
+604,PER,Peru,108
+608,PHL,Philippines,224
+616,POL,Poland,207
+620,PRT,Portugal,487
+624,GNB,Guinea-Bissau,1
+630,PRI,Puerto Rico,5
+634,QAT,Qatar,93
+642,ROU,Romania,163
+643,RUS,Russia,3694
+646,RWA,Rwanda,3
+682,SAU,Saudi Arabia,187
+686,SEN,Senegal,20
+688,SRB,Republic of Serbia,123
+694,SLE,Sierra Leone,4
+703,SVK,Slovakia,47
+703,SVK,Slovakia,47
+704,VNM,Vietnam,89
+705,SVN,Slovenia,40
+706,SOM,Somalia,2
+710,ZAF,South Africa,412
+716,ZWE,Zimbabwe,49
+724,ESP,Spain,751
+729,SDN,Sudan,27
+740,SUR,Suriname,1
+748,SWZ,eSwatini,2
+752,SWE,Sweden,144
+756,CHE,Switzerland,1986
+760,SYR,Syria,74
+762,TJK,Tajikistan,50
+764,THA,Thailand,175
+768,TGO,Togo,1
+780,TTO,Trinidad and Tobago,9
+784,ARE,United Arab Emirates,947
+788,TUN,Tunisia,26
+792,TUR,Turkey,221
+795,TKM,Turkmenistan,22
+800,UGA,Uganda,8
+804,UKR,Ukraine,1373
+807,MKD,Macedonia,2
+818,EGY,Egypt,180
+826,GBR,United Kingdom,3936
+834,TZA,Tanzania,23
+840,USA,United States of America,701
+854,BFA,Burkina Faso,3
+858,URY,Uruguay,418
+860,UZB,Uzbekistan,70
+862,VEN,Venezuela,863
+887,YEM,Yemen,15
+894,ZMB,Zambia,20
